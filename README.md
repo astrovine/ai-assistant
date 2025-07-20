@@ -1,12 +1,12 @@
 # 🤖 Dhee - Personal AI Assistant (v1.0)
 
-> A modern, conversational AI assistant with memory, task managem- **AI Model**: Change model in `src/personal_assistant.py`nt, and a sleek dark-themed web interface.
 
-## 🚀 Overview
+
+## Overview
 
 Dhee is a personal AI assistant that combines **Groq's free API** with a responsive web interface. Built as a learning project with GitHub Copilot assistance for rapid prototyping, this v1 focuses on core functionality that I'll iterate and improve over time.
 
-## ✨ Features
+##  Features
 
 - 💬 **Conversational AI** - Natural language interactions powered by Groq
 - 🧠 **Memory System** - Maintains conversation context across sessions
@@ -34,7 +34,7 @@ Dhee is a personal AI assistant that combines **Groq's free API** with a respons
 - **Git** - Version control
 - **Virtual Environment** - Python dependency isolation
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 AI-AGENT/
@@ -141,9 +141,9 @@ python multi_agent.py
 ```
 
 Supports:
-- ✅ **Groq** (Free, fast, recommended)
-- ⚠️ **OpenAI** (Paid, high quality)
-- ⚠️ **Hugging Face** (Free, limited)
+-  **Groq** (Free, fast, recommended)
+-  **OpenAI** (Paid, high quality)
+- **Hugging Face** (Free, limited)
 
 ## 📈 Performance
 
