@@ -1,0 +1,22 @@
+# AI Assistant Dependencies
+# Generated for Dhee Personal AI Assistant v1.0
+
+# Core Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# AI & Language Models
+groq==0.4.1
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# HTTP Requests (for API testing)
+requests==2.31.0
+
+# Optional: OpenAI API (if needed)
+# openai==1.3.0
+
+# Development & Testing
+# pytest==7.4.0
+# pytest-flask==1.3.0
